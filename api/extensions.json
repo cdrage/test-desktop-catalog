@@ -20,15 +20,15 @@
           "files": [
             {
               "assetType": "icon",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/podman-desktop/minikube/0.4.0/icon.png"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/podman-desktop/minikube/0.4.0/icon.png"
             },
             {
               "assetType": "README",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/podman-desktop/minikube/0.4.0/README.md"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/podman-desktop/minikube/0.4.0/README.md"
             },
             {
               "assetType": "LICENSE",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/podman-desktop/minikube/0.4.0/LICENSE"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/podman-desktop/minikube/0.4.0/LICENSE"
             }
           ]
         }
@@ -55,15 +55,15 @@
           "files": [
             {
               "assetType": "icon",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/podman-desktop/podman-quadlet/0.12.0/icon.png"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/podman-desktop/podman-quadlet/0.12.0/icon.png"
             },
             {
               "assetType": "README",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/podman-desktop/podman-quadlet/0.12.0/README.md"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/podman-desktop/podman-quadlet/0.12.0/README.md"
             },
             {
               "assetType": "LICENSE",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/podman-desktop/podman-quadlet/0.12.0/LICENSE"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/podman-desktop/podman-quadlet/0.12.0/LICENSE"
             }
           ]
         }
@@ -90,15 +90,15 @@
           "files": [
             {
               "assetType": "icon",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/minc-org/minc/0.4.0/icon.png"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/minc-org/minc/0.4.0/icon.png"
             },
             {
               "assetType": "README",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/minc-org/minc/0.4.0/README.md"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/minc-org/minc/0.4.0/README.md"
             },
             {
               "assetType": "LICENSE",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/minc-org/minc/0.4.0/LICENSE"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/minc-org/minc/0.4.0/LICENSE"
             }
           ]
         }
@@ -125,15 +125,15 @@
           "files": [
             {
               "assetType": "icon",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/redhat/ai-lab/1.9.3/icon.png"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/redhat/ai-lab/1.9.3/icon.png"
             },
             {
               "assetType": "README",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/redhat/ai-lab/1.9.3/README.md"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/redhat/ai-lab/1.9.3/README.md"
             },
             {
               "assetType": "LICENSE",
-              "data": "https://redhat-developer.github.io/podman-desktop-catalog/api/extensions/redhat/ai-lab/1.9.3/LICENSE"
+              "data": "https://cdrage.github.io/test-desktop-catalog/api/extensions/redhat/ai-lab/1.9.3/LICENSE"
             }
           ]
         }
